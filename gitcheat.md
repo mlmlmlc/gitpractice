@@ -7,3 +7,5 @@ this is stuff for the cheatsheet
 Now I did more things. 
 
 And now I do even more things.
+
+ Do it! Making a CV in markdown, so that you can make it into website, pdf etc.
